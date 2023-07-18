@@ -1,0 +1,1 @@
+This is a simple Flask blog application that utilizes the Bootstrap framework for styling.
